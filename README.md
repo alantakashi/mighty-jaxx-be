@@ -1,1 +1,1 @@
-# mighty-jaxx-api
+# mighty-jaxx-be
