@@ -1,0 +1,5 @@
+require('dotenv').config()
+require('module-alias/register')
+require('babel-register')
+require('babel-polyfill')
+require('./api')
